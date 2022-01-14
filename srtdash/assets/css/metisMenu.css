@@ -78,7 +78,7 @@
     display: none;
   }
   .metismenu .collapse.in {
-    display: block;
+    display: block !important;
   }
   .metismenu .collapsing {
     position: relative;
